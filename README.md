@@ -154,7 +154,7 @@ O espectro é exibido em escala logarítmica para facilitar a visualização, j�
 
 ## 👤 Autor
 
-**Seu Nome**  
-Curso: [Nome do Curso]  
-Instituição: [Nome da Instituição]  
-Período: [Semestre/Ano]
+**Cauê Soares de Oliveira**  
+Curso: Ciencias da computação  
+Instituição: Anhanguera  
+Período: 7° Semestre
